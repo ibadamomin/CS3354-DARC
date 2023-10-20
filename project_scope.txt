@@ -9,6 +9,9 @@
 		16.2.1 Add card game titles
 		16.2.2 Manage active game categories (add/remove games)
 		16.2.3 Sort games by name
+		16.2.4 Create decks for each card game
+		16.2.5 Organize cards into decks, including unowned cards
+		16.2.6 View parts of deck in collection
 	16.3 Card Viewing 
 		16.3.1 swipe to go to the next/previous card
 		16.3.2 Change card display size
@@ -20,7 +23,8 @@
 	16.5 Card Trading 
 		16.5.1 Support setting a market price for each card
 		16.5.2 Support inter-user card purchases 
-		16.5.3 Supports fraud prevention system in trading 
-	16.6 Other
+		16.5.3 Supports fraud prevention system in trading
+		16.5.4 Supports users creating listings for cards
+	16.7 Other
 		16.4.1 Zoom in/out and scroll whenever necessary 
 	
