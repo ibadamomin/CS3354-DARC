@@ -1,2 +1,2 @@
-# Digital Repository and Auction for Cards (DARC)
+# Digital Repository and Auction for Cards (DRAC)
 
